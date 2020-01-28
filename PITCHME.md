@@ -52,6 +52,32 @@ A Distributed System, every user has a local copy of the repository in addition 
 Git is a distributed version-control system for tracking changes in source code during software development.
 @snapend
 ---
+### GIT STATES
+
+![IMAGE](https://4.bp.blogspot.com/-2oRkFnCKNjs/XLvkR-un41I/AAAAAAAAU4c/Sl-D81Nm8tgKM61PQbn3_GKgUAUqx8i5wCLcBGAs/s1600/git-workflow-codemio.png)
+
+---?color=linear-gradient(180deg, white 65%, black 35%)
+@snap[west span-55]
+## STAGED
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](https://miro.medium.com/max/686/1*diRLm1S5hkVoh5qeArND0Q.png)
+@snapend
+
+@snap[south span-100]
+A staging step in git allows you to continue making changes to the working directory, and when you decide you wanna interact with version control, it allows you to record changes in small commits.
+
+Suppose you have edited three files (a.html, b.html, and c.html). After that you need to commit all the changes so that the changes to a.html and b.html were a single commit, while the changes to c.html were not logically associated with the first two files and were done in a separate commit.
+
+git add a.html
+git add b.html
+git commit -m "Changes for a and b"
+
+git add c.html
+git commit -m "Unrelated change to c"
+@snapend
+---
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
