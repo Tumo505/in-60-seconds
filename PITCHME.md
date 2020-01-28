@@ -4,7 +4,7 @@
 
 ### WHAT IS GIT?
 
-![IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntl4r5X3MBJk_7qLOdW18zvl3NcLV-A_C8yiG2vTgyh0Zm8Lg&s)
+![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
