@@ -84,7 +84,7 @@ A staging step in git allows you to continue making changes to the working direc
 @snapend
 ---?color=linear-gradient(180deg, white 65%, black 35%)
 @snap[west span-55]
-## COMMITTED
+## Commited
 @snapend
 
 @snap[north-east span-45]
