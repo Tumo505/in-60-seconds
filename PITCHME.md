@@ -93,6 +93,17 @@ A staging step in git allows you to continue making changes to the working direc
 
 @snap[south span-100]
 The "commit" command is used to save your changes to the local repository. Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command. 
+---?color=linear-gradient(180deg, white 65%, black 35%)
+@snap[west span-55]
+## MODIFIED
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](https://i.stack.imgur.com/kslSd.png)
+@snapend
+
+@snap[south span-100]
+As you edit files, Git sees them as modified, because you’ve changed them since your last commit. As you work, you selectively stage these modified files and then commit all those staged changes, and the cycle repeats.
 ---
 @title[Add A Little Imagination]
 
