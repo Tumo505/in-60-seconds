@@ -40,7 +40,7 @@ In a Distributed System, every user has a local copy of the repository in additi
 ![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[west span-55]
+@snap[north-west span-55]
 ## GIT
 @snapend
 
@@ -99,7 +99,7 @@ A staging step in git allows you to continue making changes to the working direc
 @snap[south span-100]
 The "commit" command is used to save your changes to the local repository. Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command. 
 ---?color=linear-gradient(180deg, white 65%, black 35%)
-@snap[west span-55]
+@snap[north-west span-55]
 ## MODIFIED
 @snapend
 
