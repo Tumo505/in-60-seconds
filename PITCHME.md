@@ -129,8 +129,11 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 ![IMAGE](assets/img/conference.png)
 @snapend
 
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- ***Building Your Code Résumé on GitHub***Eventually, students graduate and enter the workforce, and having coding skills on your résumé upon graduation is paramount for most of the big companies in the area.GitHub has become the platform of choice for showcasing coding projects to potential employers.
+
+@ulend
 @snapend
 
 ---
