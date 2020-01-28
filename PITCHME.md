@@ -51,6 +51,7 @@ A Distributed System, every user has a local copy of the repository in addition 
 @snap[south span-100]
 Git is a distributed version-control system for tracking changes in source code during software development.
 @snapend
+---
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
