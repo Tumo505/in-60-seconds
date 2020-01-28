@@ -118,10 +118,8 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- ***Feature Branch Workflow***
-> One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge.When a developer wants to start working on something—no matter how big or small—they create a new branch. This ensures that the master branch always contains production-quality code.
-- Distributed Development
-> each developer gets their own local repository, complete with a full history of commits.Having a full local history makes Git fast, since it means you don’t need a network connection to create commits, inspect previous versions of a file, or perform diffs between commits.
+- ***Feature Branch Workflow***-One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge.When a developer wants to start working on something—no matter how big or small—they create a new branch. This ensures that the master branch always contains production-quality code.
+- ***Distributed Development***-each developer gets their own local repository, complete with a full history of commits.Having a full local history makes Git fast, since it means you don’t need a network connection to create commits, inspect previous versions of a file, or perform diffs between commits.
 - With a **little imagination**
 - And GitPitch Markdown
 @ulend
