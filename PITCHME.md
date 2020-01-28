@@ -35,6 +35,13 @@ A Distributed System, every user has a local copy of the repository in addition 
 @snapend
 
 ---
+
+
+### WHAT IS GIT?
+
+![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
+
+---
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
