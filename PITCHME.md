@@ -4,7 +4,7 @@
 
 ### WHAT IS GIT?
 
-![IMAGE](https://icon2.cleanpng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg)
+![IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntl4r5X3MBJk_7qLOdW18zvl3NcLV-A_C8yiG2vTgyh0Zm8Lg&s)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
