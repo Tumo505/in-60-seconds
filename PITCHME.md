@@ -35,13 +35,22 @@ A Distributed System, every user has a local copy of the repository in addition 
 @snapend
 
 ---
-
-
 ### WHAT IS GIT?
 
 ![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
 
----
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@snap[west span-55]
+## GIT
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](https://blog.cpanel.com/wp-content/uploads/2018/05/image2018-2-8_17-46-1.png)
+@snapend
+
+@snap[south span-100]
+Git is a distributed version-control system for tracking changes in source code during software development.
+@snapend
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
