@@ -31,7 +31,7 @@ A centralized system works on a Client-Server relationship. The repository is lo
 @snapend
 
 @snap[south span-100]
-A Distributed System, every user has a local copy of the repository in addition to the central repo on the server side.
+In a Distributed System, every user has a local copy of the repository in addition to the central repo on the server side.
 @snapend
 
 ---
@@ -73,7 +73,7 @@ Git is a distributed version-control system for tracking changes in source code 
 @snap[south span-100]
 A staging step in git allows you to continue making changes to the working directory, and when you decide you wanna interact with version control, it allows you to record changes in small commits.
 ---
-> Suppose you have edited three files (a.html, b.html, and c.html). After that you need to commit all the changes so that the changes to a.html and b.html were a single commit, while the changes to c.html were not logically associated with the first two files and were done in a separate commit.
+> Suppose you have edited three files (***a.html***, ***b.html***, and ***c.html***). After that you need to commit all the changes so that the changes to ***a.html*** and ***b.html*** were a single commit, while the changes to ***c.html*** were not logically associated with the first two files and were done in a separate commit.
 ---
 > git add a.html
 
