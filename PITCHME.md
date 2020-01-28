@@ -82,6 +82,17 @@ A staging step in git allows you to continue making changes to the working direc
 
 >git commit -m "Unrelated change to c"
 @snapend
+---?color=linear-gradient(180deg, white 65%, black 35%)
+@snap[west span-55]
+## COMMITTED
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](https://www.earthdatascience.org/images/workshops/version-control/git-add-commit.png)
+@snapend
+
+@snap[south span-100]
+The "commit" command is used to save your changes to the local repository. Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command. This means that a file won't be automatically included in the next commit just because it was changed.
 ---
 @title[Add A Little Imagination]
 
