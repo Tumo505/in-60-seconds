@@ -80,6 +80,7 @@ Suppose you have edited three files (a.html, b.html, and c.html). After that you
 
 >git add c.html
 
+
 >git commit -m "Unrelated change to c"
 @snapend
 ---
