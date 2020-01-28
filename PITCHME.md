@@ -40,7 +40,7 @@ In a Distributed System, every user has a local copy of the repository in additi
 ![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[north-west span-55]
+@snap[west span-55]
 ## GIT
 @snapend
 
@@ -107,7 +107,7 @@ The "commit" command is used to save your changes to the local repository. Note 
 ![IMAGE](https://i.stack.imgur.com/kslSd.png)
 @snapend
 
-@snap[north-south span-100]
+@snap[south span-100]
 As you edit files, Git sees them as modified, because you’ve changed them since your last commit. As you work, you selectively stage these modified files and then commit all those staged changes, and the cycle repeats.
 ---
 @title[Add A Little Imagination]
