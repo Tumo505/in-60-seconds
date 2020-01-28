@@ -152,7 +152,7 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/conference.png)
+![IMAGE](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiQ5-DO3KbnAhVBJVAKHTu0B2oQjRx6BAgBEAQ&url=https%3A%2F%2Flinuxize.com%2Fpost%2Fhow-to-install-git-on-ubuntu-18-04%2F&psig=AOvVaw211vIdPrq5sMPbJIseVXnQ&ust=1580315612165330)
 @snapend
 ---
 @snap[north-east span-100 text-pink text-06]
