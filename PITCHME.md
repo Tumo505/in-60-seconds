@@ -7,20 +7,18 @@
 ![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+@title[TYPES OF VCS]
 
 @snap[west span-55]
 ## Centralized VCS
 @snapend
-
-The concept of a centralized system is that it works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
 
 @snap[north-east span-45]
 ![IMAGE](https://scmquest.com/wp-content/uploads/2014/05/central_vcs.jpg)
 @snapend
 
 @snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
+The concept of a centralized system is that it works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
 @snapend
 
 ---
