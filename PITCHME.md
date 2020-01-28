@@ -2,9 +2,9 @@
 
 ---
 
-### WHAT IS GIT?
+### TYPES OF VCS
 
-![IMAGE](https://git-scm.com/images/logos/downloads/Git-Icon-White.png)
+![IMAGE](https://www.perforce.com/sites/default/files/image/2019-05/image-blog-what-is-version-control.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[TYPES OF VCS]
