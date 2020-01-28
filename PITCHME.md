@@ -71,10 +71,13 @@ A staging step in git allows you to continue making changes to the working direc
 Suppose you have edited three files (a.html, b.html, and c.html). After that you need to commit all the changes so that the changes to a.html and b.html were a single commit, while the changes to c.html were not logically associated with the first two files and were done in a separate commit.
 ---
 git add a.html
+
 git add b.html
+
 git commit -m "Changes for a and b"
 
 git add c.html
+
 git commit -m "Unrelated change to c"
 @snapend
 ---
