@@ -10,11 +10,13 @@
 @title[Customize Slide Layout]
 
 @snap[west span-55]
-## Customize the Layout
+## Centralized VCS
 @snapend
 
+The concept of a centralized system is that it works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
+
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://scmquest.com/wp-content/uploads/2014/05/central_vcs.jpg)
 @snapend
 
 @snap[south span-100]
