@@ -120,8 +120,8 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 @ul[list-spaced-bullets text-09]
 - ***Feature Branch Workflow***
 - ***Distributed Development***
-- With a **little imagination**
-- And GitPitch Markdown
+- ***Pull Requests***
+- ***Faster Release Cycle***
 @ulend
 @snapend
 
