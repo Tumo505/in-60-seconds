@@ -57,11 +57,11 @@ Git is a distributed version-control system for tracking changes in source code 
 ![IMAGE](https://4.bp.blogspot.com/-2oRkFnCKNjs/XLvkR-un41I/AAAAAAAAU4c/Sl-D81Nm8tgKM61PQbn3_GKgUAUqx8i5wCLcBGAs/s1600/git-workflow-codemio.png)
 
 ---?color=linear-gradient(180deg, white 65%, black 35%)
-@snap[west span-55]
+@snap[north-west span-55]
 ## STAGED
 @snapend
 
-@snap[east span-45]
+@snap[north-east span-45]
 ![IMAGE](https://miro.medium.com/max/686/1*diRLm1S5hkVoh5qeArND0Q.png)
 @snapend
 
