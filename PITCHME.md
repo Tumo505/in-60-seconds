@@ -18,7 +18,20 @@
 @snapend
 
 @snap[south span-100]
-The concept of a centralized system is that it works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
+A centralized system works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
+@snapend
+
+---
+@snap[west span-55]
+## Distributed VCS
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](https://scmquest.com/wp-content/uploads/2014/05/distributed_vcs.jpg)
+@snapend
+
+@snap[south span-100]
+A Distributed System, every user has a local copy of the repository in addition to the central repo on the server side.
 @snapend
 
 ---
