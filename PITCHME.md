@@ -76,9 +76,11 @@ Suppose you have edited three files (a.html, b.html, and c.html). After that you
 
 > git commit -m "Changes for a and b"
 
-git add c.html
+***
 
-git commit -m "Unrelated change to c"
+>git add c.html
+
+>git commit -m "Unrelated change to c"
 @snapend
 ---
 @title[Add A Little Imagination]
