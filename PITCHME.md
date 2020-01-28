@@ -136,14 +136,14 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 @snapend
 ---
 @snap[north-west span-50 text-center]
-#### Why Should Grad Students Use Git?(cont.)
+#### I would recommend using Git if: 
 @snapend
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You manage a repository of code for an ongoing experiment or project.
-- You write a lot of complex or collaborative documents in LaTeX.
-- You might need a portfolio of coding projects in the future.
+- ***You manage a repository of code for an ongoing experiment or project.***
+- ***You write a lot of complex or collaborative documents in LaTeX.***
+- ***You might need a portfolio of coding projects in the future.***
 @ulend
 @snapend
 
