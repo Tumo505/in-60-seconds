@@ -56,6 +56,11 @@ Git is a distributed version-control system for tracking changes in source code 
 
 ![IMAGE](https://4.bp.blogspot.com/-2oRkFnCKNjs/XLvkR-un41I/AAAAAAAAU4c/Sl-D81Nm8tgKM61PQbn3_GKgUAUqx8i5wCLcBGAs/s1600/git-workflow-codemio.png)
 
+---
+### TRACKED VS UNTRACKED
+
+>In short, ***tracked files*** are files that Git knows about. ***Untracked files*** are everything else — any files in your working directory that were not in your last snapshot and are not in your staging area.
+
 ---?color=linear-gradient(180deg, white 65%, black 35%)
 @snap[north-west span-55]
 ## STAGED
