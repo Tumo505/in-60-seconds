@@ -4,7 +4,7 @@
 
 ### WHAT IS GIT?
 
-![IMAGE](assets/img/git.png)
+![IMAGE](assets/img/git.jpeg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
