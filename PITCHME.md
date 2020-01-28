@@ -129,17 +129,19 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 ![IMAGE](assets/img/conference.png)
 @snapend
 ---
+@snap[north-west span-50 text-center]
 #### Why Should Grad Students Use Git?
+@snapend
+
 @snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- ***Building Your Code Résumé on GitHub***
+***Building Your Code Résumé on GitHub***
 
 Eventually, students graduate and enter the workforce, and having coding skills on your résumé upon graduation is paramount for most of the big companies in the area.GitHub has become the platform of choice for showcasing coding projects to potential employers.
-@ulend
 @snapend
 
 ---
-#### Why Should Grad Students Use Git?
+@snap[north-west span-50 text-center]
+#### Why Should Grad Students Use Git?(cont.)
 @snapend
 
 @snap[west span-55]
