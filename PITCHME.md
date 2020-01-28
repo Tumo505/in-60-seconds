@@ -44,7 +44,7 @@ A Distributed System, every user has a local copy of the repository in addition 
 ## GIT
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](http://bryanavery.co.uk/wp-content/uploads/2017/05/capture_stepup1_5_6.png)
 @snapend
 
@@ -61,7 +61,7 @@ Git is a distributed version-control system for tracking changes in source code 
 ## STAGED
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](https://miro.medium.com/max/686/1*diRLm1S5hkVoh5qeArND0Q.png)
 @snapend
 
@@ -87,7 +87,7 @@ A staging step in git allows you to continue making changes to the working direc
 ## Commited
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](https://www.earthdatascience.org/images/workshops/version-control/git-add-commit.png)
 @snapend
 
@@ -98,7 +98,7 @@ The "commit" command is used to save your changes to the local repository. Note 
 ## MODIFIED
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](https://i.stack.imgur.com/kslSd.png)
 @snapend
 
