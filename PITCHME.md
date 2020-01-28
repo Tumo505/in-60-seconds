@@ -45,7 +45,7 @@ A Distributed System, every user has a local copy of the repository in addition 
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](https://blog.cpanel.com/wp-content/uploads/2018/05/image2018-2-8_17-46-1.png)
+![IMAGE](http://bryanavery.co.uk/wp-content/uploads/2017/05/capture_stepup1_5_6.png)
 @snapend
 
 @snap[south span-100]
