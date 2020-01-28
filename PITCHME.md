@@ -134,6 +134,10 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 
 > Eventually, students graduate and enter the workforce, and having coding skills on your résumé upon graduation is paramount for most of the big companies in the area.GitHub has become the platform of choice for showcasing coding projects to potential employers.
 @snapend
+
+@snap[east span-45]
+![IMAGE](https://user-images.githubusercontent.com/1387653/45539771-86065a80-b7bf-11e8-8d44-d9878cbae054.gif)
+@snapend
 ---
 @snap[north-west span-50 text-center]
 #### I would recommend using Git if: 
