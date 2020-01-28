@@ -21,7 +21,7 @@
 A centralized system works on a Client-Server relationship. The repository is located at one place and provides access to many clients.
 @snapend
 
----
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @snap[west span-55]
 ## Distributed VCS
 @snapend
