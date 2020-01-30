@@ -159,6 +159,7 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 Basic Git Terminology & Commands
 @snapend
 ***git init***-creates an empty repo on your local drive
+***git status***-displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
 @snap[south span-100 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
