@@ -177,7 +177,15 @@ Basic Git Terminology & Commands(cont.)
 @snapend
 @ul[list-spaced-bullets text-09]
 - ***git checkout -b <branch name>***-git checkout command lets you navigate between the branches.Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
-- ***git remote add***-The git remote add command takes two arguments: A remote name, for example, “origin” A remote URL, which you can find on the Source sub-tab of your Git repo.*It links your local repository with a remote repository. Local repository is on your machine. Remote repository is the central repository where people share the code. *
+- ***git remote add***-The git remote add command takes two arguments: A remote name, for example, “origin” A remote URL, which you can find on the Source sub-tab of your Git repo.*It links your local repository with a remote repository. Local repository is on your machine. Remote repository is the central repository. *
+@ulend
+---
+  @snap[north-centre span-100 text-pink text-15]
+Basic Git Terminology & Commands(cont.)
+@snapend
+@ul[list-spaced-bullets text-09]
+- ***git push***-git push command allows you to send (or push) the commits from your local branch in your local Git repository to the remote repository. To be able to push to your remote repository, you must ensure that all your changes to the local repository are committed.
+  - ***git pull***-pulls the master branch from the remote called origin into your current branch.*git pull is essentially a combination of git fetch and git merge ; it fetches the remote branch then merges it into your current branch.*
 @ulend
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
