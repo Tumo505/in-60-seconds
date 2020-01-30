@@ -162,7 +162,24 @@ Basic Git Terminology & Commands
 - ***git init***-creates an empty repo on your local drive
 - ***git status***-displays the state of the working directory and the staging area. *It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.*
 - ***git add***-adds a change in the working directory to the staging area.*It tells Git that you want to include updates to a particular file in the next commit.*
+@ulend
+
+@snap[south span-100 text-gray text-08]
+@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
+@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
+@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
+@snapend
+
+
+---
+---
+@snap[north-centre span-100 text-pink text-15]
+Basic Git Terminology & Commands(cont.)
+@snapend
+@ul[list-spaced-bullets text-09]
 - ***git add .***-adds all modified and new (untracked) files in the current directory and all subdirectories to the staging area (a.k.a. the index)
+- ***git commit***-The "commit" command is used to save your changes to the local repository.*Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command.**add a commit message*
+- ***git checkout -b <branch name>***-git checkout command lets you navigate between the branches.Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
 @ulend
 
 @snap[south span-100 text-gray text-08]
