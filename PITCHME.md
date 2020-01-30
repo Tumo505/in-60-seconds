@@ -213,7 +213,7 @@ Basic Git Terminology & Commands(cont.)
 - ***git reset***-git reset is a powerful command that is used to undo local changes to the state of a Git repo*Git reset operates on "The Three Trees of Git". These trees are the Commit History ( HEAD ), the Staging Index, and the Working Directory.*
 - ***git rebase***-the rebase command integrates changes from one branch into another. It is an alternative to the better known "merge" command.*Most visibly, rebase differs from merge by rewriting the commit history in order to produce a straight, linear succession of commits.*
 @ulend
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+---?image=https://github.githubassets.com/images/modules/logos_page/Octocat.png&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
 ## Now It's **Your** Turn
