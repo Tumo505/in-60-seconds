@@ -156,20 +156,9 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 @snapend
 ---
 @snap[north-east span-100 text-pink text-06]
-Let your code do the talking!
+Basic Git Terminology & Commands
 @snapend
-
-```sql zoom-18
-CREATE TABLE "topic" (
-    "id" serial NOT NULL PRIMARY KEY,
-    "forum_id" integer NOT NULL,
-    "subject" varchar(255) NOT NULL
-);
-ALTER TABLE "topic"
-ADD CONSTRAINT forum_id
-FOREIGN KEY ("forum_id")
-REFERENCES "forum" ("id");
-```
+***git init***-creates an empty repo on your local drive
 
 @snap[south span-100 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
