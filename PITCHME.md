@@ -170,7 +170,14 @@ Basic Git Terminology & Commands(cont.)
 @ul[list-spaced-bullets text-09]
 - ***git add .***-adds all modified and new (untracked) files in the current directory and all subdirectories to the staging area (a.k.a. the index)
 - ***git commit***-The "commit" command is used to save your changes to the local repository.*Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command.**add a commit message*
+@ulend
+---
+@snap[north-centre span-100 text-pink text-15]
+Basic Git Terminology & Commands(cont.)
+@snapend
+@ul[list-spaced-bullets text-09]
 - ***git checkout -b <branch name>***-git checkout command lets you navigate between the branches.Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
+- ***git remote add***-The git remote add command takes two arguments: A remote name, for example, “origin” A remote URL, which you can find on the Source sub-tab of your Git repo.*It links your local repository with a remote repository. Local repository is on your machine. Remote repository is the central repository where people share the code. *
 @ulend
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
