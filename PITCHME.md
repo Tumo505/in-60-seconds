@@ -160,8 +160,9 @@ Basic Git Terminology & Commands
 @snapend
 @ul[list-spaced-bullets text-09]
 - ***git init***-creates an empty repo on your local drive
-- ***git status***-displays the state of the working directory and the staging area. **It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.**
-- ***git add***-adds a change in the working directory to the staging area.**It tells Git that you want to include updates to a particular file in the next commit.**
+- ***git status***-displays the state of the working directory and the staging area. *It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.*
+- ***git add***-adds a change in the working directory to the staging area.*It tells Git that you want to include updates to a particular file in the next commit.*
+- ***git add .***-adds all modified and new (untracked) files in the current directory and all subdirectories to the staging area (a.k.a. the index)
 @ulend
 
 @snap[south span-100 text-gray text-08]
