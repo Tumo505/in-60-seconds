@@ -188,7 +188,7 @@ Basic Git Terminology & Commands(cont.)
 - ***git pull***-pulls the master branch from the remote called origin into your current branch.*git pull is essentially a combination of git fetch and git merge ; it fetches the remote branch then merges it into your current branch.*
 @ulend
 ---
-  @snap[north-centre span-100 text-pink text-15]
+@snap[north-centre span-100 text-pink text-15]
 Basic Git Terminology & Commands(cont.)
 @snapend
 @ul[list-spaced-bullets text-09]
@@ -197,13 +197,27 @@ Basic Git Terminology & Commands(cont.)
 - ***git merge***-The "merge" command is used to integrate changes from another branch.
 
 @ulend
+---
+@snap[north-centre span-100 text-pink text-15]
+Basic Git Terminology & Commands(cont.)
+@snapend
+@ul[list-spaced-bullets text-09]
+- ***git merge***-The "merge" command is used to integrate changes from another branch.
+- ***git revert***-The git revert command is a forward-moving undo operation that offers a safe method of undoing changes.*Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified. Git revert is a safer alternative to git reset in regards to losing work.*
+@ulend
+---
+@snap[north-centre span-100 text-pink text-15]
+Basic Git Terminology & Commands(cont.)
+@snapend
+@ul[list-spaced-bullets text-09]
+- ***git reset***-git reset is a powerful command that is used to undo local changes to the state of a Git repo*Git reset operates on "The Three Trees of Git". These trees are the Commit History ( HEAD ), the Staging Index, and the Working Directory.*
+- ***git rebase***-the rebase command integrates changes from one branch into another. It is an alternative to the better known "merge" command.*Most visibly, rebase differs from merge by rewriting the commit history in order to produce a straight, linear succession of commits.*
+@ulend
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
 ## Now It's **Your** Turn
 @snapend
 
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+
 
