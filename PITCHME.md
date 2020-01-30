@@ -155,7 +155,7 @@ As you edit files, Git sees them as modified, because you’ve changed them sinc
 ![IMAGE](https://miro.medium.com/max/2732/1*qwFrTMnFkcd3U9rFKwwacw.png)
 @snapend
 ---
-@snap[north-east span-100 text-pink text-06]
+@snap[centre span-100 text-pink text-06]
 Basic Git Terminology & Commands
 @snapend
 @ul[list-spaced-bullets text-09]
